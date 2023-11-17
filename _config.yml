@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vinay"
+  name             : "Vinay Mittal"
   avatar           : "Vinay_Mittal.png"
   bio              : "Data Science Enthusiast"
   location         : "Melbourne, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "vm05011996@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "vinay.mittal.7549"
   foursquare       :
   github           : "MitVinay"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "vm05011996"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "vinay-mittal-aab703103"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
